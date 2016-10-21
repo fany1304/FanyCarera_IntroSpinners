@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="741798128860920"
+    token="4995942554723621504"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="1238" />
+    <task
+        name="instant-run-dex"
+        duration="68" />
+    <task
+        name="instant-run-transform"
+        duration="317" />
+    <task
+        name="verifier"
+        duration="23" />
+
+    <artifact
+        location="C:\Users\Fany\AndroidStudioProjects\IntroduccionalusodeSpinners\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="741382460253984"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Fany\AndroidStudioProjects\IntroduccionalusodeSpinners\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="741798128860920"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Fany\AndroidStudioProjects\IntroduccionalusodeSpinners\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Fri Oct 21 13:16:09 CEST 2016
+base.0=C\:\\Users\\Fany\\AndroidStudioProjects\\IntroduccionalusodeSpinners\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb4ebdd234473a402bcf12a0d4c015f2d6b116b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Fany\\AndroidStudioProjects\\IntroduccionalusodeSpinners\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_57b4d851c7d2c072f8a66d9e3bf5ff532cd37717\\classes.dex
+base.1=C\:\\Users\\Fany\\AndroidStudioProjects\\IntroduccionalusodeSpinners\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_57b4d851c7d2c072f8a66d9e3bf5ff532cd37717
+file.0=C\:\\Users\\Fany\\AndroidStudioProjects\\IntroduccionalusodeSpinners\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb4ebdd234473a402bcf12a0d4c015f2d6b116b1\\classes.dex
